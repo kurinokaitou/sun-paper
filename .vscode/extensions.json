@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "naumovs.color-highlight",
+    "mhutchie.git-graph",
+    "jimdong.naive-ui-snippets",
+    "christian-kohler.path-intellisense",
+    "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
+    "sdras.vue-vscode-snippets",
+    "voorjaar.windicss-intellisense",
+  ]
+}
